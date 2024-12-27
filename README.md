@@ -261,6 +261,8 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 
 ## Acknowledgements
 
+- Template from [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate/tree/e6aee9a927795ac6dedda4f936f9a411b6ef86b7)
+- Config idea from [jujumilk3/fastapi-clean-architecture](https://github.com/jujumilk3/fastapi-clean-architecture/tree/main)
 - This project uses several components from [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate)
 - The row level access control is inspired by [fastapi-permissions](https://github.com/holgi/fastapi-permissions)
 - CRUD pattern is inspired by [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)
